@@ -1,0 +1,39 @@
+header{
+    background-color: salmon;
+    text-align: left;
+    width: 100%;
+   padding: 40px;
+}
+footer{
+    background-color: salmon;
+    text-align: left;
+    align-content:flex-end;
+    width: 100%;
+    padding: 40px;
+}
+a{
+    position: relative;
+    top: -40px;
+    left: -40px;
+    right: 0px;
+    bottom: 0px;
+}
+h1:hover{
+    color: rgba(255, 10, 2, 0.5);
+}
+header:hover{
+    background-color: aquamarine;
+}
+footer:hover{
+    background-color: aquamarine;
+}
+.p1:hover{
+    background-color: chartreuse;
+    opacity: 0.5;
+}
+.p2:hover{
+    background-color: red ;
+}
+.p3:hover{
+    background-color: cornflowerblue;
+}
