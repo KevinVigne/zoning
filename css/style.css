@@ -1,3 +1,6 @@
+body{
+    margin: 0 auto;
+}
 header{
     background-color: salmon;
     text-align: left;
@@ -10,6 +13,8 @@ footer{
     align-content:flex-end;
     width: 100%;
     padding: 40px;
+    position: fixed;
+    bottom: 0;
 }
 a{
     position: relative;
@@ -18,7 +23,25 @@ a{
     right: 0px;
     bottom: 0px;
 }
-h1:hover{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2:hover{
     color: rgba(255, 10, 2, 0.5);
 }
 header:hover{
