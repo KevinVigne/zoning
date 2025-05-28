@@ -1,8 +1,58 @@
 *{
     margin: 0 auto;
 }
-nav{
+header{
+    background-color: rgb(180, 141, 67);
+    width: 74%;
+    margin-top: 50px;
+    height: 70px;
+    color: whitesmoke;
+    align-content: center;
     text-align: center;
+}
+nav{ 
     background-color: rgb(151, 141, 141);
-
+    width: 74%;
+    color:whitesmoke ;
+    height: 40px;
+    align-content: center;
+    text-align: center;
+}
+.pz1,.pz2,.pz3,.pz4,.pz5,.pz6,.pz7,.pz8,.pz9,.pz10,.pz11,.pz12,.pz13,.pz14,.pz15,.pz16{
+    color: whitesmoke;
+    height: 170px;
+    width: 24.7%;
+    border:2px solid white;
+    text-align: center;
+    align-content: center;
+    float: left;
+}
+.pz1,.pz2,.pz3,.pz4{
+    background-color:rgb(245, 192, 128) ;
+}
+.pz5,.pz6,.pz7,.pz8{
+    background-color:rgba(71, 175, 223, 0.774) ;
+}
+.pz9,.pz10,.pz11,.pz12{
+    background-color:rgba(19, 75, 92, 0.678) ;
+}
+.pz13,.pz14,.pz15,.pz16{
+    background-color:rgb(243, 216, 143) ;
+}
+section{
+    margin-left: 250px;
+    margin-right: 250px;
+    border:5px solid cyan;
+    align-content: center;
+}
+footer{
+    margin-bottom: 50px;
+    position: relative;
+    bottom: 0px;
+    background-color: rgb(192, 192, 192);
+    width: 74%;
+    height: 50px;
+    color: whitesmoke;
+    align-content: center;
+    text-align: center;
 }
